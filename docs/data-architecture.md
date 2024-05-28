@@ -1,6 +1,6 @@
 ## Database models
 
-![Database models](../database_models.jpg 'Database models')
+![Database models](database_models.jpg 'Database models')
 
 **User**
 Stores basic profile data for a user and relationships.
